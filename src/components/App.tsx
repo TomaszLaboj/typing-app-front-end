@@ -1,10 +1,10 @@
-import { MyComponent } from "./MyComponent";
+import { TypeWindow} from "./TypeWindow";
 import "./App.css";
 
 function App() {
     return (
         <div className="App">
-            <MyComponent />
+            <TypeWindow />
         </div>
     );
 }
