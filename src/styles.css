@@ -1,0 +1,17 @@
+.original-text {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    font-size: 20px;
+    width: 50rem;
+}
+
+.typed-text {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    font-size: 20px;
+    width: 50rem;
+    height: 210px;
+}
