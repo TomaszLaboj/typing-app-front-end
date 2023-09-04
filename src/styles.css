@@ -6,7 +6,18 @@
     width: 50rem;
 }
 
-.typed-text {
+.typed-text-not-error {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    font-size: 20px;
+    width: 50rem;
+    height: 210px;
+}
+
+.typed-text-error {
+    background-color: firebrick;
     display: block;
     margin-left: auto;
     margin-right: auto;
