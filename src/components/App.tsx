@@ -1,12 +1,8 @@
-import { TypeWindow} from "./TypeWindow";
+import { TypeWindow } from "./TypeWindow";
 import "./App.css";
 
 function App() {
-    return (
-        <div className="App">
-            <TypeWindow />
-        </div>
-    );
+    return <div className="App"></div>;
 }
 
 export default App;

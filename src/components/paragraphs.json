@@ -1,7 +1,13 @@
-{ 
+{
     "paragraphs": [
+        {
+            "id": 1,
 
-    "Ring tailed lemurs are probably the most well-known of all the different types of lemur because King Julien from the Madagascar films is one. Ring tailed lemurs spend more than a third of their time on the ground, more than any other lemur species. They like to sunbathe in the mornings to warm themselves up. You will see them sitting with their arms outstretched, like they are sun-worshipping. ",
-    "Lemurs live for up to 15 years in the wild.The ring tailed lemur is endangered in the wild but as they breed so well in captivity there are lots in zoos. The ring tailed lemur faces many threats, including habitat destruction and being hunted for its meat. The illegal pet trade is also a major threat with people accepting money to steal them for sale as exotic pets."
-]
+            "text": "Ring tailed lemurs are probably the most well-known of all the different types of lemur because King Julien from the Madagascar films is one. Ring tailed lemurs spend more than a third of their time on the ground, more than any other lemur species. They like to sunbathe in the mornings to warm themselves up. You will see them sitting with their arms outstretched, like they are sun-worshipping. "
+        },
+        {
+            "id": 2,
+            "text": "Lemurs live for up to 15 years in the wild.The ring tailed lemur is endangered in the wild but as they breed so well in captivity there are lots in zoos. The ring tailed lemur faces many threats, including habitat destruction and being hunted for its meat. The illegal pet trade is also a major threat with people accepting money to steal them for sale as exotic pets."
+        }
+    ]
 }
