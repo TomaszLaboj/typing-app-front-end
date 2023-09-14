@@ -1,4 +1,3 @@
-import { TypeWindow } from "./TypeWindow";
 import "./App.css";
 
 function App() {
